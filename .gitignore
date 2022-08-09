@@ -1,0 +1,94 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# customer filter
+
+*.tar.gz
+
+*.asc
+*.dll
+*.exe
+*.exp
+*.lib
+*.pdb
+*.pyc
+*~
+.*.sw?
+.cproject
+.deps
+.dirstamp
+.libs
+.project
+.settings
+/.vs
+/bld/
+/build/
+/builds/
+/stats/
+CHANGES.dist
+Debug
+INSTALL
+Makefile
+Makefile.in
+Release
+TAGS
+aclocal.m4
+aclocal.m4.bak
+autom4te.cache
+compile
+config.cache
+config.guess
+config.log
+config.status
+config.sub
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+mkinstalldirs
+tags
+stamp-h1
+
+# project binaries
+m4
+build-aux
+installDir
+Makefile.in
+config.h.in
+config.h
+
+hello
+bonjour
+
